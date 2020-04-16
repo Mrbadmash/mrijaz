@@ -48,7 +48,7 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.01)
 
-#Dev:Ijaz_Afridi
+#Dev:love_hacker
 ##### LOGO #####
 logo = """
 \033[1;96m██╗░░░░░██╗░█████╗░███████╗
@@ -488,8 +488,8 @@ def pilih_super():
 	p = ThreadPool(50)
 	p.map(main, id)
 	print "\033[1;96m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;93mMrBadmash\033[1;96m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;93m«---•◈•---Developed By Mr-Badmash--•◈•---»" #Dev:mrijaz
-	print '\033[1;96m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 mrijaz.py)↩\033[1;97m....'
+	print "  \033[1;93m«---•◈•---Developed By Mr-Badmash--•◈•---»" #Dev:love_hacker
+	print '\033[1;96m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 afridi.py)↩\033[1;97m....'
 	print"\033[1;92mTotal OK/\x1b[1;93mCP \033[1;93m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print """
                          ¸,.-~·¹´¨¨¨¨¨¨¨¨¨¨¨¨¨¨`²·~-.,¸        
